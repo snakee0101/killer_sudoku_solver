@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Sudoku\\": "src/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^10.3"
+    }
+}
